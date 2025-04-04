@@ -24,11 +24,13 @@ This personal weblog system allows you to:
 - RSS feed
 
 ### Technologies Used
-- Node.js
-- Express
-- MongoDB
-- React
+- PHP
+- CodeIgniter
+- MySQL
+- HTML
+- CSS
 - Bootstrap
+- JavaScript
 
 ### Contributing
 Feel free to submit issues and pull requests.
